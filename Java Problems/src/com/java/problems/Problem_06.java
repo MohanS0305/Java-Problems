@@ -2,7 +2,7 @@ package com.java.problems;
 
 import java.util.Scanner;
 
-public class Problem_6 {
+public class Problem_06 {
 
 	public static void main(String[] args) {
 		/*
