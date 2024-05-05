@@ -27,14 +27,14 @@ public class Problem_67 {
 		 * 
 		 * 1 <= sentence.length <= 1000 sentence consists of lowercase English letters.
 		 */
-		String sentence = "Pack my box with five dozen liquor jugs.";
+		String sentence = "thequickbrownfoxjumpsoverthelazydog";
 		System.out.println(checkIfPangram(sentence));
 	}
 
 	private static boolean checkIfPangram(String sentence) {
-		// remove white space and special character in the String
 		// manually convert all the character into lowerCase
-		sentence = sentence.replaceAll(" ", "").toLowerCase().replaceAll("[^a-z]", "");
+		// remove white space and special character in the String
+		sentence = sentence.toLowerCase().replaceAll("[^a-z]", "");
 		System.out.println(sentence);
 		// get the String length
 		int len = sentence.length();
