@@ -1,4 +1,4 @@
-package com.firstjava.problems;
+package com.java.problems.firstjava;
 import java.util.*;
 public class Problem_07 {
 
