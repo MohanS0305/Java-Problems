@@ -1,4 +1,4 @@
-package com.flowofprogram.problems;
+package com.java.problems.flowofprogram;
 
 public class Problem_02 {
 
