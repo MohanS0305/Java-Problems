@@ -3,7 +3,7 @@ package com.java.problems.arrays;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Kids_With_Greatest_No_Of_Candies {
+public class GreatestCandyChecker {
 
 	public static void main(String[] args) {
 
